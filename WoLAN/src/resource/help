@@ -1,0 +1,14 @@
+<html>
+<body>
+<h1>WoLAN tool ver.1.0.b</h1>
+<p>This is a part of "Wake Up" mechanism in local network (NSFROBAS).</p>
+<h2>Usage</h2>
+<p>Before you start remotely workstation please check parameters (send request to IT service for parameters).</p>
+<ul>
+  <li>Set Broadcast Address.</li>
+  <li>Type MAC address of target workstation.</li>
+  <li>Click WoLAN button.</li>
+</ul>
+<p>Last session will be saved in local APP configuration.</p>
+</body>
+</html>

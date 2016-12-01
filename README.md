@@ -1,4 +1,4 @@
-Java Application for Wake On LAN mechanism 
+Java Application for Wake On LAN mechanism.
 ================================================================================
 
 The README is used to introduce the tool and provide instructions on
@@ -19,6 +19,8 @@ This tool requires these other modules and libraries:
 	jpcap.jar
 	kxml2-min-2.3.0.jar
 	xstream-1.4.jar
+	Utilities   https://github.com/vroncevic/Utilities
+	apptemplate https://github.com/vroncevic/apptemplate
 
 COPYRIGHT AND LICENCE
 

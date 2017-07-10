@@ -29,5 +29,5 @@ Copyright (C) 2016 by https://github.com/vroncevic/WoLAN
 This tool is free software; you can redistribute it and/or modify it.
 
 ![alt tag](https://raw.githubusercontent.com/vroncevic/WoLAN/master/java_logo.png)
-![alt tag](https://raw.githubusercontent.com/vroncevic/WoLAN/master/linux_logo.jpg)
+![alt tag](https://raw.githubusercontent.com/vroncevic/WoLAN/master/linux_logo.png)
 
